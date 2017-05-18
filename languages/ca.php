@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Spanish translations for the comment_tracker plugin
+ * Catalan translations for the comment_tracker plugin
  */
 return array(
     'comments' => "Comentaris",
